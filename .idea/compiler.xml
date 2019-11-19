@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="raminelvin-stepProject" />
         <module name="Step-workplace" />
+        <module name="raminelvin-stepProject" />
+        <module name="StepProject-1" />
       </profile>
     </annotationProcessing>
   </component>
